@@ -43,5 +43,7 @@ I'm Tushant Man Singh a Web Developer and Content Creator on [Youtube](https://w
 
 <br />
 <br />
+<br />
 
+![Tushant's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TushantMan&&layout=compact&theme=merko)
 
