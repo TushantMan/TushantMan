@@ -38,8 +38,6 @@ I'm Tushant Man Singh a Web Developer and Content Creator on [Youtube](https://w
 <img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
 <img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>
 <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-dreamweaver.png"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"/>
 <img src="https://img.icons8.com/fluent/48/000000/figma.png"/>
 </p>
 <br />
