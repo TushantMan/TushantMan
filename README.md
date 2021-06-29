@@ -16,7 +16,6 @@ I'm Tushant Man Singh a Web Developer and Content Creator on [Youtube](https://w
 - ⚡ Fun fact: I am a big football fan and I play and record gaming videos.
 
 
-
 ## 🔨 Languages and Tools:
 
 
