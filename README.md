@@ -26,7 +26,7 @@ I'm Tushant Man Singh a Web Developer and Content Creator on [Youtube](https://w
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img src="https://img.icons8.com/offices/50/000000/php-logo.png"/>
 
 <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
