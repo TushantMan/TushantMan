@@ -52,6 +52,5 @@ I'm Tushant Man Singh a Web Developer and Content Creator on [Youtube](https://w
 </p>
 <br />
 <br />
-<a href="(https://github.com/TushantMan/github-readme-activity-graph"><img alt="Tushant's Top Languages" src="https://activity-graph.herokuapp.com/graph?username=TushantMan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></a>
 
 
