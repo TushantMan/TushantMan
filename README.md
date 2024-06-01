@@ -18,25 +18,7 @@ I'm Tushant Man Singh a Software Engineer and Content Creator on [YouTube](https
 
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-
-<img src="https://img.icons8.com/offices/50/000000/php-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-
-<img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-<img src="https://img.icons8.com/color/48/000000/codepen.png"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
-<img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>
-<img src="https://img.icons8.com/fluent/48/000000/figma.png"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,wordpress,bootstrap,webflow,materialui,nodejs,sequelize,nginx,mysql,postgres,sqlite,firebase,gcp,postman,npm,docker,python,java,dart,c,cpp,cmake,r,md,androidstudio,gradle,vscode,clion,idea,powershell,linux,bash,git,github,netlify,codepen,figma,ai,ps,xd," />
 </p>
 <br />
 
