@@ -1,7 +1,7 @@
 
 ## Hi, I'm Tushant <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Tushant Man Singh a Web Developer and Content Creator on [Youtube](https://www.youtube.com/c/XRSGamerX). I Spend most of my time building websites, apps or recording and playing games.
+I'm Tushant Man Singh a Software Developer and Content Creator on [YouTube](https://www.youtube.com/c/XRSGamerX). I Spend most of my time building websites, and apps or recording and playing games.
 
 📫 Reach me out!
 
