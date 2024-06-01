@@ -20,8 +20,6 @@ I'm Tushant Man Singh a Software Engineer and Content Creator on [YouTube](https
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,wordpress,bootstrap,webflow,materialui,nodejs,sequelize,nginx,mysql,postgres,sqlite,firebase,gcp,postman,npm,docker,python,java,dart,c,cpp,cmake,r,md,androidstudio,gradle,vscode,clion,idea,powershell,linux,bash,git,github,netlify,codepen,figma,ai,ps,xd," />
 </p>
-<br />
-
 
   ##  📝 My Contributions
   <div align="left">
