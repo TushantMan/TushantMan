@@ -23,7 +23,7 @@ I'm Tushant Man Singh a Software Engineer and Content Creator on [YouTube](https
 <br />
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tushantman/TushantMan/output/github-contribution-grid-snake.svg" />
   
