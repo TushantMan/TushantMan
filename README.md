@@ -5,7 +5,7 @@ I'm Tushant Man Singh a Software Engineer and Content Creator on [YouTube](https
 
 📫 Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/XRS_Gamer_X-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/XRSGamerX)  [![Mail Badge](https://img.shields.io/badge/-@tushant__man-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/tushant_man)
+[![Mail Badge](https://img.shields.io/badge/@tushant__man-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tushant_man) [![Mail Badge](https://img.shields.io/badge/TUSHANT_MAN_SINGH-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushant-man) [![Mail Badge](https://img.shields.io/badge/XRS_GAMER_X-e74c3c?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/XRSGamerX)
 
 ## 🙋‍♂️ About Me
 
