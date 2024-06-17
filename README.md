@@ -23,8 +23,9 @@ I'm Tushant Man Singh a Software Engineer and Content Creator on [YouTube](https
 </p>
 
 ## 🧩 LeetCode
-
-![](https://leetcard.jacoblin.cool/TushantMan?animation=false)
+<p align="center">
+<img alt="Tushant's Top Languages" src="https://leetcard.jacoblin.cool/TushantMan?animation=false" width="100%"></a>
+</p>
 
 
 
@@ -40,7 +41,7 @@ I'm Tushant Man Singh a Software Engineer and Content Creator on [YouTube](https
 ## 📊 My Github Stats
 
 <p align="center">
-<a href="https://github.com/TushantMan/github-readme-stats"><img alt="Tushant's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TushantMan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="55%"></a>
+<a href="https://github.com/TushantMan/github-readme-stats"><img alt="Tushant's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TushantMan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="100%"></a>
 
 <br/>
 
