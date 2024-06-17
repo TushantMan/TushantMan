@@ -14,6 +14,7 @@ I'm Tushant Man Singh a Software Engineer and Content Creator on [YouTube](https
 - ✉️ How to reach me: <a href="mailto:tushantman77@hotmail.com">tushantman77@hotmail.com.</a>
 
 
+
 ## 🔨 Languages and Tools:
 
 
@@ -21,12 +22,18 @@ I'm Tushant Man Singh a Software Engineer and Content Creator on [YouTube](https
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,wordpress,bootstrap,webflow,materialui,nodejs,sequelize,nginx,mysql,postgres,sqlite,firebase,gcp,postman,npm,docker,python,java,dart,c,cpp,cmake,r,md,androidstudio,gradle,vscode,clion,idea,powershell,linux,bash,git,github,netlify,codepen,figma,ai,ps,xd," />
 </p>
 
+## 🧩 LeetCode
+
+![](https://leetcard.jacoblin.cool/TushantMan?animation=false)
+
+
+
   ##  📝 My Contributions
   <div align="left">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tushantman/TushantMan/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 
@@ -36,7 +43,7 @@ I'm Tushant Man Singh a Software Engineer and Content Creator on [YouTube](https
 <a href="https://github.com/TushantMan/github-readme-stats"><img alt="Tushant's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TushantMan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="55%"></a>
 
 <br/>
-<br />
+
 <b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br />
